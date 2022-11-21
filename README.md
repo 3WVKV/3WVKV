@@ -1,6 +1,17 @@
-<h2 align="center">Hi 👋! My name is Stéphane and i'm a passionate developer from France !</h2>
+<h2 align="center">Hi 👋! My name is Stéphane and I'm a passionate developer from France !</h2>
 
 ###
+
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL and frameworks !**
+
+- 💬 Ask me about **begginer things cause i'm not that good 😂**
+
+- 📄 Know about my experiences ➡️ <a href="https://drive.google.com/file/d/1a1Cw0VYa3W5sEuMJ8s2tQUhCfyhX7cda/view?usp=share_link">Resume <a/>
+
+<br>
+<br>
+<br>
+  
 
 <img align="right" height="150" src="https://media.tenor.com/-psSUuUnzVsAAAAC/crayon-shin-chan.gif"  />
 
@@ -28,9 +39,6 @@
   <a href="https://www.instagram.com/akamelhc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="ΛKΛMΣ#8616" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="stephane2bastia@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -47,4 +55,5 @@
 
 ###
 
-###
+
+
