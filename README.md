@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, PHP, MySQL and frameworks !**
 
-- 💬 Ask me about **begginer things cause i'm not that good 😂**
+- 💬 Ask me about **begginer things cause i'm not that good already 😂**
 
 - 📫 How to reach me ➡️ **<a href="mailto:stephane2bastia@gmail.com">Mail !</a>**
 
