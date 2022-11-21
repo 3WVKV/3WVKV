@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Stéphane and I'm a passionate developer from France !</h2>
+<h2 align="center">Hi 👋! My name is Stéphane !</h2>
+<h3 align="center">I'm a passionate developer from France !</h3>
 
 ###
 
