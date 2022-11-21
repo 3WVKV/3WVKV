@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ➡️ **<a href="mailto:stephane2bastia@gmail.com">Mail !</a>**
 
-- 📄 Know about my experiences ➡️ <a href="http://myreader.toile-libre.org/Almeida_stephane_resume.pdf">Resume</a>
+- 📄 Know about my experiences ➡️ <a href="https://drive.google.com/file/d/1a1Cw0VYa3W5sEuMJ8s2tQUhCfyhX7cda/view?usp=share_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
