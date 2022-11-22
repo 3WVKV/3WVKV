@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/9kQebFy.png" alt="Hello World">
+
+
 <h2 align="center">Hi 👋! My name is Stéphane !</h2>
 <h3 align="center">I'm a passionate developer from France !</h3>
 
@@ -8,6 +11,7 @@
 - 💬 Ask me about **begginer things cause i'm not that good 😂**
 
 - 📄 Know about my experiences ➡️ <a href="https://drive.google.com/file/d/1a1Cw0VYa3W5sEuMJ8s2tQUhCfyhX7cda/view?usp=share_link">Resume <a/>
+  
 
 <br>
 <br>
